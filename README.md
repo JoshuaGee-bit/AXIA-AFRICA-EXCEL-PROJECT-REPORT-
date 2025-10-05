@@ -12,3 +12,7 @@ This shows the use of Microsoft Excel in Cleaning and Organizing Data using Exce
 
 ## Expected Outcomes
 To clean and organize the data using Microsoft Excel and make it ready for analysis.
+
+
+# MICROSOFT EXCEL PROJECT
+
