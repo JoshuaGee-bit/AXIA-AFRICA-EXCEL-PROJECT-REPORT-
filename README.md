@@ -14,5 +14,15 @@ This shows the use of Microsoft Excel in Cleaning and Organizing Data using Exce
 To clean and organize the data using Microsoft Excel and make it ready for analysis.
 
 
+
 # MICROSOFT EXCEL PROJECT
 
+## Table of Content
+-[Project Overview].
+
+
+### Project Overview
+This project aims to clean and organize data using the Microsoft Excel Functions
+
+### Tools
+- 
