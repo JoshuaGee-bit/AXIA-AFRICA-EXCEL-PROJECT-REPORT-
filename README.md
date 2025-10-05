@@ -1,7 +1,7 @@
 # AXIA AFRICA EXCEL PROJECT REPORT
 This shows the use of Microsoft Excel in Cleaning and Organizing Data using Excel Cleaning Techniques such as Filtering, Sorting and Logical functions.
 
-## Key Tasks 
+## Key Tasks and Objectives
 1. Autofit Columns and Rows. 
 2. Identify and Remove Duplicates. 
 3. Trim Extra Spaces. 
