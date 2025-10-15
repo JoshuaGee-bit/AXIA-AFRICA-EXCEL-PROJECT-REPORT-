@@ -35,14 +35,14 @@ put the image here
 ## Answers to Questions
 
 ### 1. Autofit Columns and Rows.
-To Autofit Columns and Rows, I clicked on the home tab --> format --> Under the cell size, I clicked on the Autofit Row height and Autofit Column width, as shown below.
+To Autofit Columns and Rows, I clicked on the home tab --> format --> Under the cell size, I clicked on the Autofit Row height and Autofit Column width.
 This is to ensure visibility of the data in the cells.
 
 
 ### 2.	Identify and Remove Duplicates
 To be able to identify and remove duplicates properly, I sorted in ascending order then removed duplicates.
-To sort, I clicked on the home tab on the menu bar, then clicked on sort in ascending order A --> Z, as shown below.
-After sorting them I removed duplicates, I clicked on the data tab and looked for the remove duplicate icon to remove duplicates, as shown below.
+To sort, I clicked on the home tab on the menu bar, then clicked on sort in ascending order A --> Z.
+After sorting them I removed duplicates, I clicked on the data tab and looked for the remove duplicate icon to remove duplicates.
 
 
 ### 3.	Trim Extra Spaces.
@@ -61,4 +61,11 @@ I highlighted all the data; on the home tab, I clicked on format as table, which
 On the rating column, I observed that there was a spelling error with the word “Excellent” which was spelt “Excelent”, in addition there was an error in imputing the price per unit some cells had ‘inf’ which was a text, it was replaced with a null value ‘$0.00’. I used the find and select tab on the home tab, it displayed a space where I could type the what I was looking for and what to replace it with. At the Rating column, I observed that there were some entries that were made and doesn’t corelate with a rating (Excellent, good, average, poor) I replaced them with ‘not given’
 After which I trimmed the price per unit column to eliminate unwanted spaces, by using the =trim(clean(H2:H29)).
 I also converted the date column to a short date format.
+
+
+### 7.	Validate data to be sure it is thoroughly clean.
+I ensured all data were appropriately cleaned and contained meaningful information ready for analysis and reporting.
+
+## Summary
+I was able to autofit columns and rows to ensure visibility, identify and remove duplicate values, trim extra spaces, eliminate blank cells, correct errors and to convert data into table. This was done by using the appropriate excel functions ranging from sorting and filtering, remove duplicates, text and logical functions.
 
