@@ -28,7 +28,20 @@ This project aims to clean and organize data using the Microsoft Excel Functions
 - Excel  [Website](https://office.com)
 
   
-#### Image of the Dirty Data Set
+### Image of the Dirty Data Set
+put the image here
+
+
+## Answers to Questions
+
+### 1. Autofit Columns and Rows.
+To Autofit Columns and Rows, I clicked on the home tab --> format --> Under the cell size, I clicked on the Autofit Row height and Autofit Column width, as shown below.
+This is to ensure visibility of the data in the cells.
+
+### 2.	Identify and Remove Duplicates
+To be able to identify and remove duplicates properly, I sorted in ascending order then removed duplicates.
+To sort, I clicked on the home tab on the menu bar, then clicked on sort in ascending order A  Z, as shown below.
+
 
 
 
