@@ -61,6 +61,8 @@ To trim and clean extra spaces, I clicked on an empty cell, typed =(trim(clean(C
 ### 4.	Eliminate Blank Cells.
 To remove blank cells on the Region column, I highlighted the region column, I typed (Ctrl + F – to find and replace) on my keyboard and it showed the icon for find and replace; to find blank and replace the blank with unknown, it replaced the three blank spaces with “Unknown”.
 
+<img width="930" height="608" alt="image" src="https://github.com/user-attachments/assets/2a65e974-7588-4fb1-82a8-520559f25ab7" />
+
 <img width="975" height="715" alt="image" src="https://github.com/user-attachments/assets/e0d97f09-810a-4f2b-8321-9ff5df4434b0" />
 
 
