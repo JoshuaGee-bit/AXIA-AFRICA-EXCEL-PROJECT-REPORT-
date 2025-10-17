@@ -9,6 +9,9 @@
 ### Project Overview
 This project aims to clean and organize data using the Microsoft Excel Functions (such as Filtering, Sorting and Logical functions).
 
+<img width="975" height="869" alt="image" src="https://github.com/user-attachments/assets/66172e67-5df3-48c9-ad8b-238527bec3f9" />
+
+
 ### Key Tasks and Objectives
 1. Autofit Columns and Rows. 
 2. Identify and Remove Duplicates. 
