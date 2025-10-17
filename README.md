@@ -18,11 +18,13 @@ To clean and organize the data using Microsoft Excel and make it ready for analy
 # MICROSOFT EXCEL PROJECT
 
 ## Table of Content
--[Project Overview].
+- [Project Overview](#project-overview).
+- [Answer to Questions](#answer-to-questions).
+- [Summary](#summary).
 
 
 ### Project Overview
-This project aims to clean and organize data using the Microsoft Excel Functions
+This project aims to clean and organize data using the Microsoft Excel Functions.
 
 ### Tools
 - Excel  [Website](https://office.com)
@@ -92,3 +94,4 @@ I ensured all data were appropriately cleaned and contained meaningful informati
 ## Summary
 I was able to autofit columns and rows to ensure visibility, identify and remove duplicate values, trim extra spaces, eliminate blank cells, correct errors and to convert data into table. This was done by using the appropriate excel functions ranging from sorting and filtering, remove duplicates, text and logical functions.
 
+## References
