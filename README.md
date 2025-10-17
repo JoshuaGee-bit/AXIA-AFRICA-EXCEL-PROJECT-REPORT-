@@ -38,23 +38,35 @@ This project aims to clean and organize data using the Microsoft Excel Functions
 To Autofit Columns and Rows, I clicked on the home tab --> format --> Under the cell size, I clicked on the Autofit Row height and Autofit Column width.
 This is to ensure visibility of the data in the cells.
 
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/90d7c0a2-9f98-4208-a537-5e2be98220cc" />
+
 
 ### 2.	Identify and Remove Duplicates
 To be able to identify and remove duplicates properly, I sorted in ascending order then removed duplicates.
 To sort, I clicked on the home tab on the menu bar, then clicked on sort in ascending order A --> Z.
+
+<img width="1006" height="491" alt="image" src="https://github.com/user-attachments/assets/41e91132-603e-486a-ad91-33d7df700f41" />
+
 After sorting them I removed duplicates, I clicked on the data tab and looked for the remove duplicate icon to remove duplicates.
+
+<img width="1016" height="580" alt="image" src="https://github.com/user-attachments/assets/cf299f8c-fb55-4e04-b4d6-3c7b8e7d3fba" />
 
 
 ### 3.	Trim Extra Spaces.
 To trim and clean extra spaces, I clicked on an empty cell, typed =(trim(clean(C2:C29)), it trims and clean the spaces in the name column, then I copied the trimmed names and pasted as values on the name column.
 
+<img width="928" height="658" alt="image" src="https://github.com/user-attachments/assets/e0137fce-0879-4a6f-8069-2150e11cadb4" />
+
 
 ### 4.	Eliminate Blank Cells.
 To remove blank cells on the Region column, I highlighted the region column, I typed (Ctrl + F – to find and replace) on my keyboard and it showed the icon for find and replace; to find blank and replace the blank with unknown, it replaced the three blank spaces with “Unknown”.
 
+<img width="975" height="715" alt="image" src="https://github.com/user-attachments/assets/e0d97f09-810a-4f2b-8321-9ff5df4434b0" />
+
 
 ### 5.	Convert Data into Table.
 I highlighted all the data; on the home tab, I clicked on format as table, which displayed different table designs and I chose one of the designs to create the table.
+
 
 
 ### 6.	Use Find and Replace to correct errors.
