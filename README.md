@@ -29,8 +29,8 @@ This project aims to clean and organize data using the Microsoft Excel Functions
 
   
 ### Image of the Dirty Data Set
-put the image here
 
+<img width="471" height="377" alt="Raw Data Set" src="https://github.com/user-attachments/assets/16d18b7f-4daf-465f-92fd-a64679b86b30" />
 
 ## Answers to Questions
 
