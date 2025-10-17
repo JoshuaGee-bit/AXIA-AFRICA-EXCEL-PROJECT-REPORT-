@@ -63,12 +63,14 @@ To remove blank cells on the Region column, I highlighted the region column, I t
 
 <img width="930" height="608" alt="image" src="https://github.com/user-attachments/assets/2a65e974-7588-4fb1-82a8-520559f25ab7" />
 
+
 <img width="975" height="715" alt="image" src="https://github.com/user-attachments/assets/e0d97f09-810a-4f2b-8321-9ff5df4434b0" />
 
 
 ### 5.	Convert Data into Table.
 I highlighted all the data; on the home tab, I clicked on format as table, which displayed different table designs and I chose one of the designs to create the table.
 
+<img width="911" height="698" alt="image" src="https://github.com/user-attachments/assets/214d1531-d562-451c-9b08-ba102168f3c5" />
 
 
 ### 6.	Use Find and Replace to correct errors.
@@ -77,8 +79,15 @@ After which I trimmed the price per unit column to eliminate unwanted spaces, by
 I also converted the date column to a short date format.
 
 
+<img width="1075" height="616" alt="image" src="https://github.com/user-attachments/assets/70cc8beb-5311-4163-ad1a-9dc007aeab5b" />
+
+
 ### 7.	Validate data to be sure it is thoroughly clean.
 I ensured all data were appropriately cleaned and contained meaningful information ready for analysis and reporting.
+
+
+<img width="975" height="869" alt="image" src="https://github.com/user-attachments/assets/c85ca954-b358-4291-9ac5-f6b0c23cab3a" />
+
 
 ## Summary
 I was able to autofit columns and rows to ensure visibility, identify and remove duplicate values, trim extra spaces, eliminate blank cells, correct errors and to convert data into table. This was done by using the appropriate excel functions ranging from sorting and filtering, remove duplicates, text and logical functions.
